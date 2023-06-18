@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_email">Search email</string>
+    <string name="completed">Completed</string>
+    <string name="go_bring_eggs">Go Bring Eggs</string>
+    <string name="bring_6_eggs_from_super_market">Bring 6 eggs from super market</string>
+    <string name="_5pm_today">5pm today</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="add_user_details">Add User Details</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="user_phone">User Phone</string>
+    <string name="save">Save</string>
+    <string name="update_user_details">Update User Details</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="user_details">User Details</string>
+</resources>
